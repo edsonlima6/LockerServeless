@@ -1,0 +1,13 @@
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/bin/Debug/netcoreapp3.1/ReadUser.deps.json
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/bin/Debug/netcoreapp3.1/ReadUser.runtimeconfig.json
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/bin/Debug/netcoreapp3.1/ReadUser.runtimeconfig.dev.json
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/bin/Debug/netcoreapp3.1/ReadUser.dll
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/bin/Debug/netcoreapp3.1/ReadUser.pdb
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/bin/Debug/netcoreapp3.1/Domain.dll
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/obj/Debug/netcoreapp3.1/ReadUser.csprojAssemblyReference.cache
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/obj/Debug/netcoreapp3.1/ReadUser.AssemblyInfoInputs.cache
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/obj/Debug/netcoreapp3.1/ReadUser.AssemblyInfo.cs
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/obj/Debug/netcoreapp3.1/ReadUser.csproj.CopyComplete
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/obj/Debug/netcoreapp3.1/ReadUser.dll
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/obj/Debug/netcoreapp3.1/ReadUser.pdb

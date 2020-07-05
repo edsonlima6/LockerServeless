@@ -1,0 +1,224 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/test/InsertUser.Tests/InsertUser.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/Domain/Domain.csproj",
+        "packagesPath": "/home/edsonlima/.nuget/packages/",
+        "outputPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/edsonlima/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.3.106.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/InsertUser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/InsertUser.csproj",
+        "projectName": "InsertUser",
+        "projectPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/InsertUser.csproj",
+        "packagesPath": "/home/edsonlima/.nuget/packages/",
+        "outputPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/edsonlima/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/Domain/Domain.csproj": {
+                "projectPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.3.106.28, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/test/InsertUser.Tests/InsertUser.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/test/InsertUser.Tests/InsertUser.Tests.csproj",
+        "projectName": "InsertUser.Tests",
+        "projectPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/test/InsertUser.Tests/InsertUser.Tests.csproj",
+        "packagesPath": "/home/edsonlima/.nuget/packages/",
+        "outputPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/test/InsertUser.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/edsonlima/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/Domain/Domain.csproj": {
+                "projectPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/Domain/Domain.csproj"
+              },
+              "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/InsertUser.csproj": {
+                "projectPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/InsertUser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.3.106.28, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Amazon.Lambda.TestUtilities": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.5.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

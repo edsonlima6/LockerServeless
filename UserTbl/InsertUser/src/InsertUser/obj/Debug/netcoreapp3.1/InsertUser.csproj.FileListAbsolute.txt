@@ -1,0 +1,13 @@
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/bin/Debug/netcoreapp3.1/InsertUser.deps.json
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/bin/Debug/netcoreapp3.1/InsertUser.runtimeconfig.json
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/bin/Debug/netcoreapp3.1/InsertUser.runtimeconfig.dev.json
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/bin/Debug/netcoreapp3.1/InsertUser.dll
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/bin/Debug/netcoreapp3.1/InsertUser.pdb
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/bin/Debug/netcoreapp3.1/Domain.dll
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/bin/Debug/netcoreapp3.1/Domain.pdb
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/obj/Debug/netcoreapp3.1/InsertUser.csprojAssemblyReference.cache
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/obj/Debug/netcoreapp3.1/InsertUser.AssemblyInfoInputs.cache
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/obj/Debug/netcoreapp3.1/InsertUser.AssemblyInfo.cs
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/obj/Debug/netcoreapp3.1/InsertUser.csproj.CopyComplete
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/obj/Debug/netcoreapp3.1/InsertUser.dll
+/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/InsertUser/src/InsertUser/obj/Debug/netcoreapp3.1/InsertUser.pdb
