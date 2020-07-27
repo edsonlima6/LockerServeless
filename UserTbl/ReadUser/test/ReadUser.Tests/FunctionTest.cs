@@ -17,7 +17,7 @@ namespace ReadUser.Tests
     public class FunctionTest
     {
         [Fact]
-        public async void TestToUpperFunction()
+        public void TestToUpperFunction()
         {
             try
             {
@@ -26,14 +26,15 @@ namespace ReadUser.Tests
                 user.Email = "renatacury@gmail.com";
                 user.Name = "Renata";
                 user.Profiles = new List<string>{"Admin", "Finance"};
+
                 UserService service = new UserService(user);  
-                var rola = service.GetUsers();
+                var rola = service.GetUsersByProfile("Admin");
 
                 // Invoke the lambda function and confirm the string was upper cased.
                 var function = new Function();
                 var context = new TestLambdaContext();
 
-                //var upperCase = function.FunctionHandler(user, context).Result;
+                var upperCase = function.FunctionHandler(user, context).Result;
 
                 Thread.Sleep(15);
                 Assert.Equal("SUCESSO", "SUCESSO");

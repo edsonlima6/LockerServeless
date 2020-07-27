@@ -2175,6 +2175,9 @@
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.106.27"
+        },
         "compile": {
           "bin/placeholder/Domain.dll": {}
         },
@@ -2854,11 +2857,12 @@
       ]
     },
     "runtime.native.System.IO.Compression/4.3.0": {
-      "sha512": "b+V9JC/Ii3sR659flBeaBJww111425tgjcDS1k+hqV4sGh9FALRDBvJnDtQ895gAzpPTUOFDHdqaZ2Et7BpZMg==",
+      "sha512": "INBPonS5QPEgn7naufQFXJEp3zX6L4bwHgJ/ZH78aBTpeNfQMtf7C6VrAFhlq2xxWBveIOWyFzQjJ8XzHMhdOQ==",
       "type": "package",
       "path": "runtime.native.system.io.compression/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -2959,7 +2963,7 @@
       ]
     },
     "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "T5NvFgmHX0WH4c7lP72krsnk+IJI10vJf2j2twGE+5QBRA4RyRAgD+ZjEgdmpLOjW4B+nZGaadewTCUcR899OQ==",
+      "sha512": "nyFNiCk/r+VOiIqreLix8yN+q3Wga9+SE8BCgkf+2BwEKiNx6DyvFjCgkfV743/grxv8jHJ8gUK4XEQw7yzRYg==",
       "type": "package",
       "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
@@ -7030,8 +7034,8 @@
     },
     "Domain/1.0.0": {
       "type": "project",
-      "path": "../../../../Domain/Domain/Domain.csproj",
-      "msbuildProject": "../../../../Domain/Domain/Domain.csproj"
+      "path": "../../../../Domain/Domain.csproj",
+      "msbuildProject": "../../../../Domain/Domain.csproj"
     },
     "ReadUser/1.0.0": {
       "type": "project",
@@ -7043,6 +7047,7 @@
     ".NETCoreApp,Version=v3.1": [
       "Amazon.Lambda.Core >= 1.1.0",
       "Amazon.Lambda.TestUtilities >= 1.1.0",
+      "Domain >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.5.0",
       "ReadUser >= 1.0.0",
       "xunit >= 2.3.1",
@@ -7050,35 +7055,40 @@
     ]
   },
   "packageFolders": {
-    "/home/edsonlima/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\edson\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/test/ReadUser.Tests/ReadUser.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\edson\\Documents\\GitHub\\LockerServeless\\UserTbl\\ReadUser\\test\\ReadUser.Tests\\ReadUser.Tests.csproj",
       "projectName": "ReadUser.Tests",
-      "projectPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/test/ReadUser.Tests/ReadUser.Tests.csproj",
-      "packagesPath": "/home/edsonlima/.nuget/packages/",
-      "outputPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/test/ReadUser.Tests/obj/",
+      "projectPath": "C:\\Users\\edson\\Documents\\GitHub\\LockerServeless\\UserTbl\\ReadUser\\test\\ReadUser.Tests\\ReadUser.Tests.csproj",
+      "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edson\\Documents\\GitHub\\LockerServeless\\UserTbl\\ReadUser\\test\\ReadUser.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/edsonlima/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/ReadUser.csproj": {
-              "projectPath": "/home/edsonlima/Documents/GitHub/FunctionsProjectAWS/UserTbl/ReadUser/src/ReadUser/ReadUser.csproj"
+            "C:\\Users\\edson\\Documents\\GitHub\\LockerServeless\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\edson\\Documents\\GitHub\\LockerServeless\\Domain\\Domain.csproj"
+            },
+            "C:\\Users\\edson\\Documents\\GitHub\\LockerServeless\\UserTbl\\ReadUser\\src\\ReadUser\\ReadUser.csproj": {
+              "projectPath": "C:\\Users\\edson\\Documents\\GitHub\\LockerServeless\\UserTbl\\ReadUser\\src\\ReadUser\\ReadUser.csproj"
             }
           }
         }
@@ -7128,7 +7138,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
