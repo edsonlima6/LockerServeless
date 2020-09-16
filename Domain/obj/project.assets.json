@@ -122,21 +122,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\edson\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\edson\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edson\\Documents\\GitHub\\LockerServeless\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\edson\\OneDrive\\Documentos\\GitHub\\LockerServeless\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\edson\\Documents\\GitHub\\LockerServeless\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\edson\\OneDrive\\Documentos\\GitHub\\LockerServeless\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edson\\Documents\\GitHub\\LockerServeless\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\edson\\OneDrive\\Documentos\\GitHub\\LockerServeless\\Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -182,7 +178,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

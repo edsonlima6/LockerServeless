@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TtKDD83673CKJgiprY+S007FUYYfPtzcueiTS24ipCQeC80py0IcVLivB2+r2+ehSNir3SxQCrCKCWIwKz39kA==",
+  "dgSpecHash": "6jQPm6gi4hB3kfwYDdQPAvSZZxZulJWG+XT2LurZtdtHxToqA8lTou+CL7hbc8ozeCoEEuYS46Q/x/gbfjYs3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edson\\Documents\\GitHub\\LockerServeless\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\edson\\OneDrive\\Documentos\\GitHub\\LockerServeless\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edson\\.nuget\\packages\\awssdk.core\\3.3.107.19\\awssdk.core.3.3.107.19.nupkg.sha512",
     "C:\\Users\\edson\\.nuget\\packages\\awssdk.dynamodbv2\\3.3.106.27\\awssdk.dynamodbv2.3.3.106.27.nupkg.sha512"
