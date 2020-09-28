@@ -24,7 +24,7 @@ namespace InsertUser
         {
             try
             {
-                return SaveUser(user).Result;
+                return SaveUser(user).Result; 
             }
             catch (System.Exception ex)
             {

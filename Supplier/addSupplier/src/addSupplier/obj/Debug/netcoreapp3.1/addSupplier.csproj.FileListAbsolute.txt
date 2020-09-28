@@ -1,0 +1,15 @@
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\bin\Debug\netcoreapp3.1\addSupplier.deps.json
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\bin\Debug\netcoreapp3.1\addSupplier.runtimeconfig.json
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\bin\Debug\netcoreapp3.1\addSupplier.runtimeconfig.dev.json
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\bin\Debug\netcoreapp3.1\addSupplier.dll
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\bin\Debug\netcoreapp3.1\addSupplier.pdb
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\bin\Debug\netcoreapp3.1\Domain.dll
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\bin\Debug\netcoreapp3.1\Domain.pdb
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\obj\Debug\netcoreapp3.1\addSupplier.csprojAssemblyReference.cache
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\obj\Debug\netcoreapp3.1\addSupplier.AssemblyInfoInputs.cache
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\obj\Debug\netcoreapp3.1\addSupplier.AssemblyInfo.cs
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\obj\Debug\netcoreapp3.1\addSupplier.csproj.CoreCompileInputs.cache
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\obj\Debug\netcoreapp3.1\addSupplier.csproj.CopyComplete
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\obj\Debug\netcoreapp3.1\addSupplier.dll
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\obj\Debug\netcoreapp3.1\addSupplier.pdb
+c:\Users\edson\OneDrive\Documentos\GitHub\LockerServeless\Supplier\addSupplier\src\addSupplier\obj\Debug\netcoreapp3.1\addSupplier.genruntimeconfig.cache

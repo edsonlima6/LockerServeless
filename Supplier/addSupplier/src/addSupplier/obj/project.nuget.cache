@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5DZyRToq6cGQnjhbLAzc10qo0e2lMEbFUlF0DlxmqqbysG/hzWoPWJCk4pQSCTBYbsAK8LcS+3l7lhNc7tNZxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edson\\OneDrive\\Documentos\\GitHub\\LockerServeless\\Supplier\\addSupplier\\src\\addSupplier\\addSupplier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edson\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.1\\amazon.lambda.serialization.systemtextjson.2.0.1.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\awssdk.core\\3.5.1.16\\awssdk.core.3.5.1.16.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\awssdk.dynamodbv2\\3.5.0.18\\awssdk.dynamodbv2.3.5.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
